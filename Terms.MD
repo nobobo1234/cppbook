@@ -1,0 +1,20 @@
+- A **//** is a comment.
+- **<<** is the output operator. It outputs something to the screen.
+- **C++** is the programming language that we are writing in.
+- A **comment** is a piece of code that is ignored by the compiler.
+- The **compiler** will transform your code from human-readable to machine-readable code.
+- A **compile-time error** is an error that is found by the compiler.
+- The **cout** refers to the output stream, it's to put something 'in' the output stream.
+- An **executable** is a file that can be executed by your computer (on Windows).
+- A **function** is a list of instructions that your computer can execute.
+- A **header** is a file with function definitions.
+- An **IDE** (Integrated Development Envoirnment) is a piece of software that makes programming easier.
+- The **#include** directive is for 'including' other files into your source code.
+- A **library** is is a file / are files that provide some functions for you.
+- The **linker** 'links' libraries or other files together.
+- The **main()** is a function every C++ program must have.
+- **Object code** is code that a machine can read and execute.
+- **Output** is something that is shown to you.
+- A **program** is a description of what a computer must do (expressed in source code most of the time).
+- **Source code** are a bunch of instructions for the computer that together form a program.
+- A **statement** is an action or instruction that is enclosed in a function body
