@@ -1,3 +1,4 @@
+# C++ Terms
 - A **//** is a comment.
 - **<<** is the output operator. It outputs something to the screen.
 - **C++** is the programming language that we are writing in.
