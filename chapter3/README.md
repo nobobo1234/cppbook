@@ -23,7 +23,7 @@ int Main() {
 ```
 
 ### Try This 5
-Here you were asked to try the program in `Try This 5/main.cpp` with a few values to see how unsafe conversions work and what they do.
+Here you were asked to try the program in `try_this/try_this_5.cpp` with a few values to see how unsafe conversions work and what they do.
 
 ### Drill
 Make a letter format
