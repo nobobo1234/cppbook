@@ -1,4 +1,5 @@
 # C++ Terms
+## Chapter 2
 - A **//** is a comment.
 - **<<** is the output operator. It outputs something to the screen.
 - **C++** is the programming language that we are writing in.
@@ -18,4 +19,24 @@
 - **Output** is something that is shown to you.
 - A **program** is a description of what a computer must do (expressed in source code most of the time).
 - **Source code** are a bunch of instructions for the computer that together form a program.
-- A **statement** is an action or instruction that is enclosed in a function body
+- A **statement** is an action or instruction that is enclosed in a function body.
+
+## Chapter 3
+- With an **assignment** you give a value to an object
+- The **cin** (see-in) stands for the input stream, and it can read input from an user into your program
+- **Concatenation** is when you literally add two things together, for example `"hello" + "world" = "helloworld"`. Or `3 concatenate 5=35` (not valid C++ code).
+- **Conversion** is when you convert from one type to another
+- **Decleration is** when you say a variable exists but don't know where it is.
+- **Decrement** is when you substract `1` from the value of a variable
+- A **definition** is when you say a variable exists, and where it exists.
+- **Increment** is when you add `1` to the value of a variable.
+- **Initialization** is when you first give a value to a variable.
+- The **name** of an object is an identifier for it.
+- **Narrowing** happens when you conver from an `double` to an `int`. It cuts of the decimals of the double so it can become an int. This 'narrows' down the whole variable.
+- An **object** is a region in memory that stores a value.
+- An **operation** is something you can perform on some type, like adding and substracting for `int` types.
+- An **operator** is something that you can use to perform an *operation*, like `+` or `-`, respectively for adding and substracting.
+- A **type** of a *variable* specifies the values that can be stored in it, the operations that we can apply to a *variable* and what those operations mean
+- **Type safety** is a concept in C++ (and most other languages) that helps you not to mess up the types of different variables, like how you can't assign a string to an integer.
+- A **value** is something that is assigned to a variable.
+- A **variable** is a named *object*.
