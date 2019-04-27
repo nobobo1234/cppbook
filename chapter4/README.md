@@ -16,4 +16,4 @@ Rewrite the previous program (from try this 3) using a `for`-statement. Also add
 Implement a `square()` function using repeated addition
 
 ### Try This 6
-Implement a word bleeper. E.g. if words `Hello my name is John Doe` is entered and you don't like the word `Hello` you bleep the word.
+Implement a word bleeper. E.g. if words `Hello my name is John Doe` are entered and you don't like the word `Hello` you bleep the word (by outputting `BLEEP`).
