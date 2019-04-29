@@ -17,3 +17,6 @@ Implement a `square()` function using repeated addition
 
 ### Try This 6
 Implement a word bleeper. E.g. if words `Hello my name is John Doe` are entered and you don't like the word `Hello` you bleep the word (by outputting `BLEEP`).
+
+### Drill
+Write a program that keeps track of added numbers with units, at the end you should display their largest value, smallest value and sum.
