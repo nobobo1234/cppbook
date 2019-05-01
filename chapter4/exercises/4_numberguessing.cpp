@@ -17,10 +17,10 @@ int main() {
             cout << "Yay! I guessed your number, it was: " << current_guess << '\n';
             break;
         } else if(answer == "less") {
-            current_guess = current_guess - 50/pow(2, iteration);
+            current_guess = current_guess - max(50/int(pow(2, iteration)), 1);
             cout << "Is your number you're thinking of equal to, greater than, or less than " << current_guess << "?\n";
         } else if(answer == "greater") {
-            current_guess = current_guess + 50/pow(2, iteration);
+            current_guess = current_guess + max(50/int(pow(2, iteration)), 1);
             cout << "Is your number you're thinking of equal to, greater than, or less than " << current_guess << "?\n";
         } else {
             cout << "Sorry, but I can't do anything with this input. Enter something valid.\n";
